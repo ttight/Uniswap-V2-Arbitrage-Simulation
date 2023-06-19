@@ -6,5 +6,7 @@ Please see the uploaded .pdf readMe for the project overview as well as mathemat
 ![Screen Shot 2023-04-24 at 9 53 03 PM](https://user-images.githubusercontent.com/78621047/234155120-8e093962-45d3-44e6-8a59-f7d12202c380.png)
 ![Screen Shot 2023-04-24 at 9 53 24 PM](https://user-images.githubusercontent.com/78621047/234155155-ecda115e-017a-4967-af89-98bce6229eab.png)
 ![Screen Shot 2023-06-19 at 5 55 43 PM](https://github.com/ttight/Uniswap-V2-Arbitrage-Simulation/assets/78621047/988a60e7-7b05-44eb-bcdb-89157f11135a)
-![Screen Shot 2023-06-19 at 5 56 15 PM](https://github.com/ttight/Uniswap-V2-Arbitrage-Simulation/assets/78621047/cdb90d15-f65e-4d54-966b-5f42dcc00fb9)
+![Screen Shot 2023-06-19 at 5 57 14 PM](https://github.com/ttight/Uniswap-V2-Arbitrage-Simulation/assets/78621047/b48986df-4db7-4e15-840c-78bd3ee30bd5)
+
+
 
