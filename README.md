@@ -1,4 +1,4 @@
-Please see the uploaded .pdf readMe for the project overview as well as mathematical analysis!
+Please see the uploaded .pdf readMe for the full project overview as well as mathematical analysis! Screenshots are provided below.
 [readMe.pdf](https://github.com/ttight/Uniswap-V2-Arbitrage-Simulation/files/11315750/readMe.pdf)
 
 ![Screen Shot 2023-06-19 at 8 54 17 AM](https://github.com/ttight/Uniswap-V2-Arbitrage-Simulation/assets/78621047/5aeb4b93-58af-463e-9382-45a94183d9d1)
